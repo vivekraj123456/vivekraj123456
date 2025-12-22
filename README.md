@@ -1,6 +1,10 @@
+
 # 💫 About Me:
 👋 Hi, I’m Vivek Kumar<br><br>💻 Full-Stack Web Developer | 📊 Data Analyst | 🤖 AI Enthusiast  <br><br>I enjoy building scalable web applications and intelligent, data-driven systems.  <br>Experienced in full-stack development, analytics, and modern AI workflows.<br><br>⚡ Tech Stack:<br>- Frontend: React, HTML, CSS, JavaScript, Bootstrap<br>- Backend: Node.js, Django, REST APIs<br>- Full Stack: MERN (MongoDB, Express, React, Node.js)<br>- Databases: SQL, PostgreSQL, MongoDB<br>- AI & Data: Python, Pandas, NumPy, Power BI, Tableau, Machine Learning, LLMs<br>- Tools: Git & GitHub<br><br>🚀 Open to internships and entry-level roles in Software Development, Data Analytics & AI
 
+
+
+![snake gif](https://github.com/vivekraj123456/vivekraj123456/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-4b549a297) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reakvivekraj_) 
