@@ -1,17 +1,5 @@
 <h2 align="left">Hi 👋! My name is Vivek Kumar and I'm a Full Stack Developer, from India</h2>
 
-<h3 align = "center">I enjoy building scalable web applications and turning data into actionable insights.  
-Experienced across frontend, backend, and data-driven systems.
-
-⚡ Tech Stack:
-- Frontend: React, HTML, CSS, JavaScript, Bootstrap
-- Backend: Node.js, Django, REST APIs
-- Full Stack: MERN (MongoDB, Express, React, Node.js)
-- Databases: SQL, PostgreSQL, MongoDB
-- Data & ML: Python, Pandas, NumPy, Power BI, Tableau, Machine Learning
-- Tools: Git & GitHub
-
-🚀 Open to internships and entry-level roles in Software Development & Data Analytics</h3>
 
 ###
 
